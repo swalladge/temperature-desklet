@@ -1,0 +1,2 @@
+# temperature-desklet
+Cinnamon desklet
